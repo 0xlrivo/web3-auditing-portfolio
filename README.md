@@ -1,4 +1,9 @@
-# audits-portfolio
-A place to show all my security findings
+# 0xd403's web3 auditing portfolio
 
-1. [Cyfrin Upfraft Security Full Course](https://github.com/Cyfrin/security-and-auditing-full-course-s23?tab=readme-ov-file#%EF%B8%8F-section-3-your-first-audit-security-review--passwordstore-audit)
+## CodeHawks First Flights
+1. PasswordStore
+2. PuppyRaffle (coming soon...)
+3. TSwap (coming soon...)
+4. ThunderLoan (coming soon...)
+5. Boss Bridge (coming soon...)
+6. Soulmate (auditing now...)

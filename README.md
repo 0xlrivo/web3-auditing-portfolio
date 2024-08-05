@@ -1,5 +1,8 @@
 # 0xlrivo's auditing protfolio
 
-| Contest | Platform | Payout |
-| ------- | -------- | ------ |
-| AI Arena | Code4Arena | $13.65 |
+| Contest                                                           | Description                                                                                                                                                                                                                                | Ranking    | Platform   |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ---------- |
+| [AI Arena](https://code4rena.com/audits/2024-02-ai-arena)         | In AI Arena you train an AI character to battle in a platform fighting game. Imagine a cross between Pokémon and Super Smash Bros, but the characters are AIs, and you can train them to learn almost any skill in preparation for battle. | 150/282    | Code4Arena |
+| [TempleGold](https://codehawks.cyfrin.io/c/2024-07-templegold/)   | Temple Gold is a claim on future airdrops. Using auction markets and staking contracts, users can get some emission of TGLD to claim farmed token allocations that temple creates in the future.                                           | 40/93      | CodeHawks  |
+| [TraitForge](https://code4rena.com/audits/2024-07-traitforge)     | The ultimate NFT game where your digital entities evolve, breed, and nuke for big ETH rewards. Mint, forge, and compete in this unique game. Play smart and reshape the future of NFTs!                                                    | pending... | Code4Arena |
+| [Ark Project](https://codehawks.cyfrin.io/c/2024-07-ark-project/) | ArkProject offers a liquidity layer for digital assets: uniting markets, empowering creators, bridging the gap to mass adoption, built on top of Starknet.                                                                                 | pending... | CodeHawks  |
